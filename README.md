@@ -1,1 +1,3 @@
 # RP_BOL
+git clone ...
+npm install
